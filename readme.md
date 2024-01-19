@@ -1,19 +1,15 @@
 ## Design Patterns Implemented with Python
 
-- Singleton Pattern
-- Factory Method Pattern
-- Observer Pattern
-- Decorator Pattern
-- Strategy Pattern
-- Adapter Pattern
-- Command Pattern
-- Builder Pattern
-- Composite Pattern
-- Proxy Pattern
-- State Pattern
-- Chain of Responsibility Pattern
-- Abstract Factory Pattern
-- Bridge Pattern
+- Singleton
+- Factory
+- Observer (Similar to Publisher-Subscriber)
+- Decorator (Similar to Composite)
+- Strategy (Similar to State & Template Method)
+- Adapter (Similar to bridge pattern)
+- Chain of Responsibility (Similar to Command)
+- Builder (Similar to Abstract Factory)
+- Command
+- Abstract Factory
 
 ## Getting Started
 
@@ -31,7 +27,8 @@ To get started with this project, follow these steps:
 
 ## Usage
 
-Provide examples and instructions on how to use each design pattern in your Python project. Include code snippets and explanations.
+Provide examples and instructions on how to use each design pattern in your Python project. Include code snippets and
+explanations.
 
 ```python
 # Example usage of Singleton Pattern
@@ -74,7 +71,9 @@ The project has the following folder structure:
 ```
 
 ## Contributing
+
 If you would like to contribute to this project, please feel free to.
 
 ## License
+
 This project is licensed under the [MIT License](https://opensource.org/license/mit/).
