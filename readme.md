@@ -9,9 +9,9 @@
 - Chain of Responsibility (Similar to Command)
 - Builder (Similar to Abstract Factory)
 - Command
-- Abstract Factory
+- Abstract `Factory
 
-## Getting Started
+##` Getting Started
 
 To get started with this project, follow these steps:
 
